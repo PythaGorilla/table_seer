@@ -455,7 +455,7 @@ public class TableCandidate {
 		detailedTableMeta = "<TableColumnHeading>\n" + m_columnHeadings + "</TableColumnHeading>" + "\n";
 		
 		detailedTableMeta = detailedTableMeta + "<TableContent>\n";
-		for (int tt=(heads+1); tt<footnoteLineIndex; tt++) {
+		for (int tt=(heads); tt<footnoteLineIndex; tt++) {    // changed heads+1 to heads, full content with row headings
 			int cellNumThisRow = cells[tt].length;
 			String contentThisRow = "";
 			for (int i=0; i<cellNumThisRow; i++) {
