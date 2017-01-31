@@ -1,0 +1,4 @@
+H:/WareHouse/WikiNet/table_extraction/table_seer/test.xmlcase1_p13.pdf		1 PAGES		1 TABLES
+H:/WareHouse/WikiNet/table_extraction/table_seer/test.xmlcase1_p13.pdf		1 PAGES		1 TABLES
+H:/WareHouse/WikiNet/table_extraction/table_seer/test.xmlcase1_p13.pdf		1 PAGES		1 TABLES
+H:/WareHouse/WikiNet/table_extraction/table_seer/test.xmlcase1_p13.pdf		1 PAGES		1 TABLES

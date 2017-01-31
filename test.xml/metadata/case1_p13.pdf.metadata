@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Tables>
+<FileName>case1_p13.pdf</FileName>
+<pageNum>1</pageNum>
+<Table>
+<pageNumInDoc>1</pageNumInDoc>
+<TableCaption>Table 6.  VOC Concentrations in Extracted Vapor </TableCaption>
+<CaptionLocation>top</CaptionLocation>
+<dataHighLevel>DPE Well May-98  Sep-98  (1) (2) DP-7 20 50 DP-8 12 47 DP-18 18 11 DP-20 29 69 VOC = Volatile Organic Compounds DPE = Dual Phase Extraction Concentrations in micrograms per liter (ug/L) Only 4 wells operating during restart (1) Before shutdown and rebound period (2) After restart </dataHighLevel>
+<TableColumnHeading>
+DPE Well ; May-98  ; Sep-98  ; 
+</TableColumnHeading>
+<TableContent>
+DP-7 ;20 ;50 ;
+DP-8 ;12 ;47 ;
+DP-18 ;18 ;11 ;
+DP-20 ;29 ;69 ;
+VOC = Volatile Organic Compounds ;;;
+DPE = Dual Phase Extraction ;;;
+Concentrations in micrograms per liter (ug/L) ;;;
+Only 4 wells operating during restart ;;;
+(1) Before shutdown and rebound period ;;;
+(2) After restart ;;;
+</TableContent>
+<TableRowHeading>DPE Well ; DP-7 ; DP-8 ; DP-18 ; DP-20 ; VOC = Volatile Organic Compounds ; DPE = Dual Phase Extraction ; Concentrations in micrograms per liter (ug/L) ; Only 4 wells operating during restart ; (1) Before shutdown and rebound period ; (2) After restart ; </TableRowHeading>
+<TableFootnote>... </TableFootnote>
+<ColumnNum>3</ColumnNum>
+<RowNum>11</RowNum>
+<ColumnCoordinates>(72.725044,249.84538); (279.24612,313.95682); (431.52927,462.15985); </ColumnCoordinates>
+<TableHeight>18.601929</TableHeight>
+<TableWidth>389.4348</TableWidth>
+<isWideTable>true</isWideTable>
+<TableReferenceText>  In PAGE 1: ... Concentrations of VOCs detected in groundwater from the DPE system extraction wells declined during the shutdown and rebound period.  Conversely, the VOC concentrations detected in extracted vapor increased slightly during the shutdown and rebound period ( Table6 ).  It is likely that VOCs volatilized from the groundwater to the vadose zone during the shutdown period....</TableReferenceText>
+</Table>
+<errorMsg></errorMsg>
+</Tables>
